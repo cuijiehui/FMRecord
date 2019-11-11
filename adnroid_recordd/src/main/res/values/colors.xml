@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_dark">#000000</color>
+    <color name="status_bar_color">#FFFFFF</color>
+    <color name="gray_E6">#E6E6E6</color>
+    <color name="gray_66">#666666</color>
+    <color name="gray_6666">#66666666</color>
+    <color name="color_ff4a3f">#ff4a3f</color>
+    <color name="dk_color_333333">#333333</color>
+
+</resources>

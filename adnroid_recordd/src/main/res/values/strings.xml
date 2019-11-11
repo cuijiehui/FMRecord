@@ -1,0 +1,12 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">XAJp5GaQeBHMipRgBkTWyjPRXfSg4ksvOXqog</string>
+    <string name="facebook_app_id">908788005945267</string>
+    <string name="fb_login_protocol_scheme">fb908788005945267</string>
+    <string name="dialog_action_ok">OK</string>
+    <string name="dialog_action_cancel">Cancel</string>
+    <string name="recording_room">Recording room</string>
+    <string name="choose_music">Choose the music</string>
+    <string name="permissions_required">App requires RECORD_AUDIO permission to access mic and
+    WRITE_EXTERNAL_STORAGE to save recorded audio
+  </string>
+</resources>

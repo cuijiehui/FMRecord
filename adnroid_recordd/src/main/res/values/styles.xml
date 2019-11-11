@@ -1,0 +1,13 @@
+<resources>
+
+    <!--对话框样式-->
+    <style name="mdialog" parent="android:style/Theme.Dialog">
+        <!-- 背景透明 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 没有标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 背景昏暗 -->
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+</resources>

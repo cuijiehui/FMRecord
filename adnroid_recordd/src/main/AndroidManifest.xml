@@ -1,0 +1,12 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.khmer.fm.adnroid_recordd" >
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+
+    <application>
+        <activity android:name=".RNActivity"></activity>
+        <activity android:name=".record.EditTextActivity"/>
+        <activity android:name=".record.RecordActivity"/>
+    </application>
+</manifest>
